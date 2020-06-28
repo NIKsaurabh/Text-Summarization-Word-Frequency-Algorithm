@@ -26,7 +26,11 @@ TASK.xlsx
 6. Generate summary
 
 ## Output
-![](images/text.png) 
+![](images/output.jpg)
+
+## Language used
+![](images/python.jpeg)
+
 ## Tool used
 ![](images/jupyter.png)
 
